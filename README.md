@@ -16,8 +16,8 @@
 1.  **Установка Python:**  Убедитесь, что на вашем компьютере или хостинге установлен Python 3.8 или выше.
 2.  **Клонирование репозитория:**
     ```bash
-    git clone https://github.com/kalimuro/telegram-bot-chatgpt.git 
-    cd telegram-bot-chatgpt
+    git clone https://github.com/Kalimuro/Free-Chatgpt-TGbot 
+    cd Free-Chatgpt-TGbot
     ```
 3.  **Установка зависимостей:**
     ```bash
