@@ -1,4 +1,4 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/kalimuro/telegram-bot-chatgpt?style=social)](https://github.com/ИМЯ_ПОЛЬЗОВАТЕЛЯ/telegram-bot-chatgpt)
+[![GitHub Repo stars](https://img.shields.io/github/stars/kalimuro/telegram-bot-chatgpt?style=social)](https://github.com/kalimuro/telegram-bot-chatgpt)
 [![License](https://img.shields.io/github/license/kalimuro/telegram-bot-chatgpt)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
@@ -40,7 +40,7 @@
 1.  **Запустите бот в Telegram:** Найдите вашего бота в Telegram по имени, которое вы указали при создании бота через BotFather.
 2.  **Начните общение:** Отправьте боту сообщение, и он ответит вам, используя ChatGPT.
 
-## 🛠️ Структура проекта (Пример)
+## 🛠️ Структура проекта
 
 telegram-bot-chatgpt/ ├── main.py # Главный файл, запускающий бота ├── handlers.py # Обработчики команд и сообщений Конфигурация бота ├── .env # Создайте его сами, если это необходимо ├── requirements.txt # Зависимости проекта ├── README.md 
 
