@@ -50,9 +50,9 @@ telegram-bot-chatgpt/ ├── main.py # Главный файл, запуск�
 
 ## ✉️ Контакты
 
-*   Name: [sh1ro]
-*   Discord username: [shirov3_]
-*   [GitHub](https://github.com/kalimuro)  # Замените!
+*   Name: sh1ro
+*   Discord username: shirov3_
+*   [GitHub](https://github.com/kalimuro) 
 
 ---
 
